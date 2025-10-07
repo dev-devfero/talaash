@@ -39,7 +39,7 @@
 ### Clone the Project
 
 ```sh
-git clone https://github.com/moizayub1255/Talaash.git
+git clone https://github.com/dev-devfero/talaash.git
 cd Talaash
 ```
 
