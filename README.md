@@ -83,8 +83,8 @@ VITE_CLERK_PUBLISHABLE_KEY=
 ### 📬 Contact
 Have questions, feedback, or want to collaborate?
 
-📧 moizayub401@gmail.com
-🌐 GitHub Profile
+📧 dev@devfero.com
+🌐 GitHub Profile: https://github.com/dev-devfero
 
 ---
 
@@ -99,9 +99,9 @@ And countless console.log() moments that saved the day 😅
 
 ---
 
-### 👨‍💻 Developed with ❤️ by Moiz Ayub
+### 👨‍💻 Developed with ❤️ by Moiz Ayub from Devfero
 
-Let me know if you want to add:
+Let us know if you want to add:
 - Badges (build passing, license, etc.)
 - Live Demo link
 - https://talaash-ucp.vercel.app
